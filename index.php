@@ -1,5 +1,5 @@
 <?php 
-echo "Hi world";
+echo "Bonjour world";
 
 echo "Hello Frankreich";
 
