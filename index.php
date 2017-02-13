@@ -3,5 +3,5 @@ echo "Bonjour world";
 
 echo "Hello Frankreich";
 
-echo "Hello MOI";
+echo "Hello TOI";
 ?>
